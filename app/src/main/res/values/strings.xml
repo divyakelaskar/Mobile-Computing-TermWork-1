@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TermWork 1 : Notes App</string>
+    <string name="noteDesc">Enter note description…</string>
+    <string name="noteTitle">Enter note title…</string>
+    <string name="submit">SUBMIT</string>
+    <string name="noteHeader">Todos</string>
+    <string name="fab_content_desc">ADD TODO</string>
+</resources>
