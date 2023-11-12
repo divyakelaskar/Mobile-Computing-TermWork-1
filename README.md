@@ -8,12 +8,31 @@
 </div>
 
 ## 🚀 Installation :
-You can download Notes App `.apk` file from the [Releases](https://github.com/divyakelaskar/Mobile-Computing-TermWork-1/releases) Tab.
+Certainly! Here's a brief template for the installation section of your Android app README:
+
+### Step 1: Clone the Repository
+```
+git clone https://github.com/your-username/Mobile-Computing-TermWork-1.git
+```
+### Step 2: Open in Android Studio
+
+Open the project in Android Studio by selecting "Open an existing Android Studio project" and navigating to the cloned repository.
+
+### Step 3: Build and Run
+
+Click on the "Run" button in Android Studio to build and run the app on your connected Android device or emulator.
+
+> [!NOTE]
+> Make sure you have the latest version of Android Studio installed along with the necessary SDKs.
+
+### Step 4: Explore Notes App
+
+Once the app is installed and running, you're all set!
 
 ## ✅ Permissions : 
-- WRITE_EXTERNAL_STORAGE : To store notification sound files.
-- READ_EXTERNAL_STORAGE : To read from external storage.
-- POST_NOTIFICATIONS : Allows an app to post notifications.
+- `WRITE_EXTERNAL_STORAGE` : To store notification sound files.
+- `READ_EXTERNAL_STORAGE` : To read from external storage.
+- `POST_NOTIFICATIONS` : Allows an app to post notifications.
 
 ## 📱🧐 Overview :
 **Main Screen:** 
