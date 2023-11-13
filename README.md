@@ -8,7 +8,6 @@
 </div>
 
 ## 🚀 Installation :
-Certainly! Here's a brief template for the installation section of your Android app README:
 
 ### Step 1: Clone the Repository
 ```
